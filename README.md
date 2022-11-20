@@ -1,0 +1,3 @@
+# myRepo2
+
+THIS IS A SAMPLE README
